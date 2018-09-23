@@ -7,7 +7,7 @@ public class testcase1 {
 		System.out.println("Continuous Integration Passed ");
 		System.out.println("Continuous Integration Passed ");
 		System.out.println("Continuous Integration Passed ");
-				System.out.println("Continuous Integration Passed ");
+		System.out.println("Continuous Integration Passed ");
 		
 		
 		
